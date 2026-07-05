@@ -7,8 +7,8 @@ def mul(x,y):
 def sub(x,y):
 	return x-y
 	
-a = int(input('enter first number:')
-b = int(input('enter second number:')
+a = int(input('enter first number:'))
+b = int(input('enter second number:'))
 
 print(add(a,b))
 print(mul(a,b))
